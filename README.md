@@ -9,6 +9,7 @@ The analysis incorporates a variety of financial and statistical techniques, inc
 * **Weighted Average Cost of Capital (WACC)** – To determine the company’s cost of capital and support valuation.
 * **Monte Carlo Simulations** – To model risk and uncertainty in future stock price projections.
 * **Time Series Forecasting** – Leveraging **Facebook Prophet** to forecast future stock prices based on historical trends.
+* Technical Analysis with Moving Averages – Applying Simple Moving Average (SMA) and Exponential Moving Average (EMA) to identify potential buy/sell signals and support trading strategy development.
 
 The project showcases both technical and analytical skills in financial modeling, data visualization, and predictive analytics by making use of financial data from a worldwide known coffee company.
 
